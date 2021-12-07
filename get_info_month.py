@@ -7,8 +7,8 @@ def word_ending(num):
         return 'tasks'
 
 def res():
-    ident = {'Anonim': '75475616', 'BOPOH': '80943547', 'Redrum': '61508683', 'Pitonshik': '67071989', 'Elendil': '1437407', 'TechoViking': '332751846'}
-    answer = {'Anonim': 0, 'BOPOH': 0, 'Redrum': 0, 'Pitonshik': 0, 'Elendil': 0}
+    ident = {'Anonim': '75475616', 'BOPOH': '80943547', 'Zelot': '61508683', 'Pitonshik': '67071989', 'Elendil': '1437407', 'TechoViking': '332751846'}
+    answer = {'Anonim': 0, 'BOPOH': 0, 'Zelot': 0, 'Pitonshik': 0, 'Elendil': 0}
     url = 'https://stepik.org:443/api/user-activities/'
     top = str()
     lazy_guys = str()
